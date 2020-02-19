@@ -1,5 +1,5 @@
 # NodeJs_Practice
-## I am using git bash and already have installed node js installed on my computer https://nodejs.org/
+## I am using git bash and already have node js installed on my computer https://nodejs.org/
 ### Create a js file in the working directory.
 touch file1.js
 nano file1.js (to edit the file)
